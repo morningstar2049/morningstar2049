@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @morningstar2049
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - vakho.daraselia@gmail.com
 
 <!---
 morningstar2049/morningstar2049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
