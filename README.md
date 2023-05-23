@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morningstar2049
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development with React
+- 🌱 I’m currently working as a React Developer
 - 📫 How to reach me - vakho.daraselia@gmail.com
 
 <!---
